@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-1a-maths",
+  "version": "1.0.0",
+  "description": "Project maths sencillo to learn nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/udemy-train/proyecto-1a-maths.git"
+  },
+  "keywords": [
+    "math",
+    "nodejs",
+    "suma",
+    "resta",
+    "multi",
+    "division"
+  ],
+  "author": "David Duarte <david.duarte@davdav.tech>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udemy-train/proyecto-1a-maths/issues"
+  },
+  "homepage": "https://github.com/udemy-train/proyecto-1a-maths#readme"
+}
