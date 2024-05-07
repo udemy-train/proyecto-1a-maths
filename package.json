@@ -1,5 +1,6 @@
 {
   "name": "proyecto-1a-maths",
+  "type": "commonjs",
   "version": "1.0.1",
   "description": "Project maths sencillo to learn nodejs",
   "main": "index.js",

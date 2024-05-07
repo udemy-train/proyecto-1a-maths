@@ -1,6 +1,13 @@
-import { suma, resta, multiplicacion, division } from './index.js';
+const lib = require('./index.js');
 
-console.log(suma(4,5));
-console.log(resta(4,5));
-console.log(multiplicacion(4,5));
-console.log(division(4,5));
+console.log(lib.suma(4,5));
+console.log(lib.resta(4,5));
+console.log(lib.multiplicacion(4,5));
+console.log(lib.division(4,5));
+
+
+/** Strings */
+console.log(lib.suma(4,'5'));
+console.log(lib.resta('4',5));
+console.log(lib.multiplicacion('4',5));
+console.log(lib.division(4,'5'));
